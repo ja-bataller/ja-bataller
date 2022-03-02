@@ -1,4 +1,4 @@
-[![MasterHead](assets/img/animated-programmer-2.gif)](http://johnanthonybataller.netlify.app/)
+[![MasterHead](assets/img/animated-programmer-3.gif)](http://johnanthonybataller.netlify.app/)
 
 <h1 align="center">I'm John Bataller</h1>
 <h3 align="center">Computer Engineering Technology Student</h3>
