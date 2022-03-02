@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Bataller</h1>
 <h3 align="center">A Computer Engineering Technology Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=Profile%20views&color=0e75b6&style=flat" alt="ja-bataller" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=Profile%20views&color=0e75b6&style=flat" width="20" height="20 alt="ja-bataller" /> </p>
 
 - <img src="assets/img/programmer.png" /> All of my projects are available at [http://johnanthonybataller.netlify.app/](http://johnanthonybataller.netlify.app/)
 
