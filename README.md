@@ -8,11 +8,18 @@
 
 <img align="right" style="border-radius:50%" src="assets/img/animated-programmer-4.gif" width="530" />
 
-<img src="assets/img/code-icon.png" width="20" /> Visit My Portfolio at [johnanthonybataller.netlify.app](http://johnanthonybataller.netlify.app/)
 
-<img src="assets/img/gmail-icon.png" width="20" /> Contact me at **johnanthonybataller.ce@gmail.com**
+<h4 align="left">Portfolio:</h4>
 
-<h4 align="left">Connect with me:</h4>
+[johnanthonybataller.netlify.app](http://johnanthonybataller.netlify.app/)
+
+
+<h4 align="left">Email:</h4>
+
+**johnanthonybataller.ce@gmail.com**
+
+
+<h4 align="left">Social Media:</h4>
 
 <p align="left">
 <a href="https://linkedin.com/in/johnanthonybataller-ce" target="blank">
