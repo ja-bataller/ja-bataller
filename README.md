@@ -91,6 +91,6 @@
  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ja-bataller&show_icons=true&locale=en&layout=compact&title_color=141414" alt="ja-bataller" width="300"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ja-bataller&show_icons=true&locale=en&layout=compact&title_color=141414" alt="ja-bataller" width="350"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ja-bataller&show_icons=true&title_color=141414&text_color=53565A&icon_color=FAD02C" alt="ja-bataller" /></p>
