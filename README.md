@@ -3,7 +3,7 @@
 <h1 align="center">I'm John Bataller</h1>
 <h3 align="center">Computer Engineering Technology Student</h3>
 
-<img align="right" style="border-radius:50%" src="assets/img/animated-programmer-3.gif" width="600" />
+<img align="right" style="border-radius:50%" src="assets/img/animated-programmer-3.gif" width="800" />
 
 <!-- VISIT COUNTER -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=PROFILE%20VIEWS&color=FAD02C&style=flat" alt="ja-bataller" /> </p>
