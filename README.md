@@ -8,15 +8,15 @@
 
 <img align="right" style="border-radius:50%" src="assets/img/animated-programmer-4.gif" width="530" />
 
-
 <h4 align="left">Portfolio:</h4>
 
-[johnanthonybataller.netlify.app](http://johnanthonybataller.netlify.app/)
+
+<img align="center" src="assets/img/netlify.png" alt="instagram"  height="20" /> [johnanthonybataller.netlify.app](http://johnanthonybataller.netlify.app/)
 
 
 <h4 align="left">Email:</h4>
 
-**johnanthonybataller.ce@gmail.com**
+<img align="center" src="assets/img/gmail-icon.png" alt="instagram"  height="20" /> **johnanthonybataller.ce@gmail.com**
 
 
 <h4 align="left">Social Media:</h4>
