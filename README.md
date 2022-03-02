@@ -4,7 +4,7 @@
 <h3 align="center">Computer Engineering Technology Student</h3>
 
 <!-- VISIT COUNTER -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=PROFILE%20VIEWS&color=FAD02C&style=flat" alt="ja-bataller" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=PROFILE%20VIEWS&color=FAD02C&style=flat" alt="ja-bataller" /> </p>
 
 <img align="right" style="border-radius:50%" src="assets/img/animated-programmer-4.gif" width="530" />
 
