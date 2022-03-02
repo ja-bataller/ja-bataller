@@ -4,6 +4,9 @@
 <!-- VISIT COUNTER -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=PROFILE%20VIEWS&color=FAD02C&style=flat" alt="ja-bataller" /> </p>
 
+<img  align="right" src="https://cdn.dribbble.com/users/410907/screenshots/2044702/wasting_time.gif" width="400" />
+
+
 <img src="assets/img/code-icon.png" width="20" /> Visit My Portfolio at [johnanthonybataller.netlify.app](http://johnanthonybataller.netlify.app/)
 
 <img src="assets/img/gmail-icon.png" width="20" /> Contact me at **johnanthonybataller.ce@gmail.com**
@@ -11,8 +14,17 @@
 <h4 align="left">Connect with me:</h4>
 
 <p align="left">
-<a href="https://linkedin.com/in/johnanthonybataller-ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnanthonybataller-ce" height="30" width="40" /></a>
-<a href="https://fb.com/bataller.johnanthony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bataller.johnanthony" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/johnanthonybataller-ce" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"    alt="johnanthonybataller-ce" height="30" width="40" />
+</a>
+ 
+<a href="https://fb.com/bataller.johnanthony" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bataller.johnanthony"  height="30" width="40" />
+</a>
+ 
+ <a href="https://www.instagram.com/ja_bataller" target="blank">
+ <img align="center" src="assets/img/instagram-icon.png" alt="instagram"  height="35" />
+</a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
@@ -70,9 +82,6 @@
   <img src="assets/img/mysql.png" alt="mysql" width="40" height="40"/>
  </a> 
 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- </a>
  
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
