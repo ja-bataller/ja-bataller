@@ -4,9 +4,9 @@
 <!-- VISIT COUNTER -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=PROFILE%20VIEWS&color=FAD02C&style=flat" alt="ja-bataller" /> </p>
 
-<img src="assets/img/programmer.png" width="25" /> Visit my Portfolio at [johnanthonybataller.netlify.app](http://johnanthonybataller.netlify.app/)
+<img src="assets/img/programmer.png" width="25" />   Visit my Portfolio at [johnanthonybataller.netlify.app](http://johnanthonybataller.netlify.app/)
 
-📫 How to reach me **johnanthonybataller.ce@gmail.com**
+📫 Contact me at **johnanthonybataller.ce@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 
@@ -38,25 +38,22 @@
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
  </a> 
  
- <br>
- 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
  </a> 
  
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express "width="60" height="60"/>
  </a> 
  
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/>
  </a> 
  
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
  </a> 
  
- <br>
  
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
@@ -69,9 +66,6 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  </a> 
-
- 
-   <br>
   
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -85,9 +79,17 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  </a> 
+
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+ </a>
+ 
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+ </a>
  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ja-bataller&show_icons=true&locale=en&layout=compact&title_color=141414" alt="ja-bataller" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ja-bataller&show_icons=true&locale=en&layout=compact&title_color=141414" alt="ja-bataller"  height="195" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ja-bataller&show_icons=true&title_color=141414&text_color=53565A&icon_color=FAD02C" alt="ja-bataller" /></p>
