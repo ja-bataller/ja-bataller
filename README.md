@@ -1,8 +1,10 @@
+[![MasterHead](assets/img/animated-programmer.gif)](http://johnanthonybataller.netlify.app/)
+
 <h1 align="center">I'm John Bataller</h1>
 <h3 align="center">Computer Engineering Technology Student</h3>
 
-<img align="right" style="border-radius:50%" src="https://cdn.dribbble.com/users/3050354/screenshots/14646894/media/1f31948afd5401c44d4bae934f07641a.gif" width="400" />
-
+<!-- <img align="right" style="border-radius:50%" src="assets/img/animated-programmer.gif" width="600" />
+ -->
 <!-- VISIT COUNTER -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=PROFILE%20VIEWS&color=FAD02C&style=flat" alt="ja-bataller" /> </p>
 
