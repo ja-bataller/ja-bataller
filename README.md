@@ -4,9 +4,9 @@
 <!-- VISIT COUNTER -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=PROFILE%20VIEWS&color=FAD02C&style=flat" alt="ja-bataller" /> </p>
 
-<img src="assets/img/programmer.png" width="25" />   Visit my Portfolio at [johnanthonybataller.netlify.app](http://johnanthonybataller.netlify.app/)
+<img src="assets/img/code-icon.png" width="20" /> Visit My Portfolio at [johnanthonybataller.netlify.app](http://johnanthonybataller.netlify.app/)
 
-📫 Contact me at **johnanthonybataller.ce@gmail.com**
+<img src="assets/img/gmail-icon.png" width="20" /> Contact me at **johnanthonybataller.ce@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 
