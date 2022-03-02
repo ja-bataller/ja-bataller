@@ -1,10 +1,10 @@
 <h1 align="center">I'm John Bataller</h1>
 <h3 align="center">Computer Engineering Technology Student</h3>
 
-<!-- VISIT COUNTER -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=PROFILE%20VIEWS&color=FAD02C&style=flat" alt="ja-bataller" /> </p>
+<img align="right" style="border-radius:50%" src="https://cdn.dribbble.com/users/3050354/screenshots/14646894/media/1f31948afd5401c44d4bae934f07641a.gif" width="400" />
 
-<img  align="right" src="https://cdn.dribbble.com/users/410907/screenshots/2044702/wasting_time.gif" width="400" />
+<!-- VISIT COUNTER -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=PROFILE%20VIEWS&color=FAD02C&style=flat" alt="ja-bataller" /> </p>
 
 
 <img src="assets/img/code-icon.png" width="20" /> Visit My Portfolio at [johnanthonybataller.netlify.app](http://johnanthonybataller.netlify.app/)
