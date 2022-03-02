@@ -6,7 +6,7 @@
 <!-- VISIT COUNTER -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ja-bataller&label=PROFILE%20VIEWS&color=FAD02C&style=flat" alt="ja-bataller" /> </p>
 
-<img align="right" style="border-radius:50%" src="assets/img/animated-programmer-2.gif" width="600" />
+<img align="right" style="border-radius:50%" src="assets/img/animated-programmer-2.gif" width="400" />
 
 <img src="assets/img/code-icon.png" width="20" /> Visit My Portfolio at [johnanthonybataller.netlify.app](http://johnanthonybataller.netlify.app/)
 
