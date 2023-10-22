@@ -19,22 +19,6 @@
 <img align="center" src="assets/img/gmail-icon.png" alt="instagram"  height="20" /> **johnanthonybataller.ce@gmail.com**
 
 
-<h4 align="left">Social Media:</h4>
-
-<p align="left">
-<a href="https://linkedin.com/in/johnanthonybataller-ce" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"    alt="johnanthonybataller-ce" height="30" width="40" />
-</a>
- 
-<a href="https://fb.com/bataller.johnanthony" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bataller.johnanthony"  height="30" width="40" />
-</a>
- 
- <a href="https://www.instagram.com/ja_bataller" target="blank">
- <img align="center" src="assets/img/instagram-icon.png" alt="instagram"  height="35" />
-</a>
-</p>
-
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
  
